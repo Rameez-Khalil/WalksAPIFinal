@@ -108,3 +108,17 @@ E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\obj\Debug\net8.0\refint\Walk
 E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\obj\Debug\net8.0\Walks.Api.pdb
 E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\obj\Debug\net8.0\Walks.Api.genruntimeconfig.cache
 E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\obj\Debug\net8.0\ref\Walks.Api.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Backend\Development\WalksApi\Walks.Api\Walks.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
