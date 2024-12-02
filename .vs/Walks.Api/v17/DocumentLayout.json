@@ -3,116 +3,24 @@
   "WorkspaceRootPath": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\iwalkrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\iwalkrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\data\\walksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\data\\walksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\walksauthdb\\20241130131650_identity database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\walksauthdb\\20241130131650_identity database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\walksauthdb\\20241117162334_created authentication database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\walksauthdb\\20241117162334_created authentication database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\walks.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\walks.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\walks.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\walkrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\walkrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\20241103132828_seeded the data for difficulties, and regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\20241103132828_seeded the data for difficulties, and regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\regiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\20241102170813_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\20241102170813_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\walks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\walks.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,355 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenRepository.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\TokenRepository.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repos\\TokenRepository.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\TokenRepository.cs",
-              "RelativeToolTip": "Walks.Api\\Repos\\TokenRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:17:14.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITokenRepository.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\ITokenRepository.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repos\\ITokenRepository.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\ITokenRepository.cs",
-              "RelativeToolTip": "Walks.Api\\Repos\\ITokenRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:16:27.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:55:01.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IWalkRepo.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\IWalkRepo.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repos\\IWalkRepo.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\IWalkRepo.cs",
-              "RelativeToolTip": "Walks.Api\\Repos\\IWalkRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:15:13.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginRequestDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\LoginRequestDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\LoginRequestDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\LoginRequestDto.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\LoginRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:17:41.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "Walks.Api\\appsettings.json",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\appsettings.json",
-              "RelativeToolTip": "Walks.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T17:03:58.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Program.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Program.cs",
-              "RelativeToolTip": "Walks.Api\\Program.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAEEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:44:50.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginResponseDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\LoginResponseDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\LoginResponseDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\LoginResponseDto.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\LoginResponseDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:56:05.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WalksAuthDbContext.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksAuthDbContext.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Data\\WalksAuthDbContext.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksAuthDbContext.cs",
-              "RelativeToolTip": "Walks.Api\\Data\\WalksAuthDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwA4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T14:48:15.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20241130131650_Identity database.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\WalksAuthDb\\20241130131650_Identity database.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\WalksAuthDb\\20241130131650_Identity database.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\WalksAuthDb\\20241130131650_Identity database.cs",
-              "RelativeToolTip": "Walks.Api\\Migrations\\WalksAuthDb\\20241130131650_Identity database.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:16:50.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\RegisterRequestDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\RegisterRequestDto.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\RegisterRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:56:29.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegionController.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\RegionController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionController.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\RegionController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\RegionController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBwAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:10:13.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WalksController.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\WalksController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\WalksController.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\WalksController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\WalksController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:14:23.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20241117162334_Created authentication database.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\WalksAuthDb\\20241117162334_Created authentication database.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\WalksAuthDb\\20241117162334_Created authentication database.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\WalksAuthDb\\20241117162334_Created authentication database.cs",
-              "RelativeToolTip": "Walks.Api\\Migrations\\WalksAuthDb\\20241117162334_Created authentication database.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:23:34.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WalksDbContext.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Data\\WalksDbContext.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
-              "RelativeToolTip": "Walks.Api\\Data\\WalksDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:01:37.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "WalkRepo.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\WalkRepo.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repos\\WalkRepo.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\WalkRepo.cs",
-              "RelativeToolTip": "Walks.Api\\Repos\\WalkRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:15:54.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Walks.Api",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Walks.Api.csproj",
-              "RelativeDocumentMoniker": "Walks.Api\\Walks.Api.csproj",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Walks.Api.csproj",
-              "RelativeToolTip": "Walks.Api\\Walks.Api.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-11T10:01:08.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repos\\IRegionRepository.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\IRegionRepository.cs",
-              "RelativeToolTip": "Walks.Api\\Repos\\IRegionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:15:01.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20241103132828_Seeded the data for Difficulties, and Regions.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241103132828_Seeded the data for Difficulties, and Regions.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20241103132828_Seeded the data for Difficulties, and Regions.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241103132828_Seeded the data for Difficulties, and Regions.cs",
-              "RelativeToolTip": "Walks.Api\\Migrations\\20241103132828_Seeded the data for Difficulties, and Regions.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAIBJwB0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T13:28:29.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Walks.Api.csproj",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Walks.Api.csproj",
-              "RelativeDocumentMoniker": "Walks.Api\\Walks.Api.csproj",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Walks.Api.csproj",
-              "RelativeToolTip": "Walks.Api\\Walks.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T17:12:48.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WalkDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\WalkDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\WalkDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\WalkDto.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\WalkDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T12:19:31.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Walk.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Walk.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\Domain\\Walk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:59:20.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegionDTO.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\RegionDTO.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\RegionDTO.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\RegionDTO.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\RegionDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T18:07:32.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Walks.Api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T18:42:18.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Region.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Region.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Region.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Region.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\Domain\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:59:14.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RegionRepository.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\RegionRepository.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Repos\\RegionRepository.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\RegionRepository.cs",
-              "RelativeToolTip": "Walks.Api\\Repos\\RegionRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:15:34.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20241102170813_Initial Migration.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241102170813_Initial Migration.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20241102170813_Initial Migration.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241102170813_Initial Migration.cs",
-              "RelativeToolTip": "Walks.Api\\Migrations\\20241102170813_Initial Migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T17:08:14.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Walks.Api.http",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Walks.Api.http",
-              "RelativeDocumentMoniker": "Walks.Api\\Walks.Api.http",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Walks.Api.http",
-              "RelativeToolTip": "Walks.Api\\Walks.Api.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-11-02T17:03:56.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Difficulty.cs",
@@ -482,7 +46,72 @@
               "RelativeToolTip": "Walks.Api\\Model\\Domain\\Difficulty.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T16:59:26.179Z"
+              "WhenOpened": "2024-11-02T16:59:26.179Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241202103136_Adding Images Table.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "RelativeToolTip": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:31:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalksDbContext.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Data\\WalksDbContext.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
+              "RelativeToolTip": "Walks.Api\\Data\\WalksDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:29:58.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Image.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Image.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Image.cs",
+              "RelativeToolTip": "Walks.Api\\Model\\Domain\\Image.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:27:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionController.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "Walks.Api\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:32:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Repos\\TokenRepository.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\TokenRepository.cs",
+              "RelativeToolTip": "Walks.Api\\Repos\\TokenRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:17:14.016Z"
             }
           ]
         }

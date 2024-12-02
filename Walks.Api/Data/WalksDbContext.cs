@@ -15,6 +15,7 @@ namespace Walks.Api.Data
 
         public DbSet<Walk> Walks { get; set; }
 
+        public DbSet<Image> Images { get; set; }
 
 
         //Override the onModelCreate method to seed some data.

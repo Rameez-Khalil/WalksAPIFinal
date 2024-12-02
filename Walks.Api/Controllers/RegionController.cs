@@ -12,7 +12,7 @@ namespace Walks.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    
     public class RegionController : ControllerBase
     {
         private readonly IRegionRepository _regionRepository;
@@ -23,6 +23,7 @@ namespace Walks.Api.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles ="Reader")]
         public async Task<IActionResult> GetAllRegions()
         {
             //Returns the list of regions.
@@ -54,6 +55,7 @@ namespace Walks.Api.Controllers
 
         [HttpGet]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Reader")]
         public async Task<IActionResult> GetRegionById([FromRoute] Guid id)
         {
             //Find the region.
@@ -73,6 +75,7 @@ namespace Walks.Api.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> CreateRegion([FromBody] RegionDTO providedRegion)
         {
             //validate the model.
@@ -106,6 +109,7 @@ namespace Walks.Api.Controllers
 
         [HttpPut]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> UpdateRegionAsync([FromRoute] Guid id, [FromBody] RegionDTO providedDto)
         {
             //validate the model.
@@ -137,6 +141,7 @@ namespace Walks.Api.Controllers
 
         [HttpDelete]
         [Route("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
 
         public async Task<IActionResult> DeleteRegionAsync([FromRoute] Guid id)
         {
