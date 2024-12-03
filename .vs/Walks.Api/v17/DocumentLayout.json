@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\20241202103136_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\20241202103136_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Difficulty.cs",
@@ -51,20 +59,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:46:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Controllers\\ImagesController.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Walks.Api\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:43:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20241202103136_Adding Images Table.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
               "RelativeToolTip": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T10:31:36.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WalksDbContext.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Data\\WalksDbContext.cs",
@@ -72,8 +106,7 @@
               "RelativeToolTip": "Walks.Api\\Data\\WalksDbContext.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAqwBEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T10:29:58.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T10:29:58.717Z"
             },
             {
               "$type": "Document",
@@ -83,14 +116,14 @@
               "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Image.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Image.cs",
               "RelativeToolTip": "Walks.Api\\Model\\Domain\\Image.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA5wA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T10:27:05.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RegionController.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\RegionController.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionController.cs",
@@ -98,12 +131,11 @@
               "RelativeToolTip": "Walks.Api\\Controllers\\RegionController.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAAAEwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:32:04.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T13:32:04.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TokenRepository.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\TokenRepository.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Repos\\TokenRepository.cs",
