@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Walks.Api.Model.Domain;
 using Walks.Api.Model.DTOs;
+using Walks.Api.Repos;
 
 namespace Walks.Api.Controllers
 {
@@ -8,42 +10,78 @@ namespace Walks.Api.Controllers
     [ApiController]
     public class ImagesController : ControllerBase
     {
+        private readonly IImageRepository imageRepository;
 
-        //POST : /api/images/upload.
-        [HttpPost]
-        [Route("Upload")]
-        public async Task<IActionResult> Upload(ImageUploadRequestDto requestedImage)
+        public ImagesController(IImageRepository imageRepository)
         {
-            ValidateFile(requestedImage);
-
-            if (!ModelState.IsValid)
-            {
-                //return ok
-            }
-
-            return BadRequest(ModelState); 
+            this.imageRepository = imageRepository;
         }
 
-        //method to validate file upload.
+        [HttpPost]
+        [Route("Upload")] //api/images/Upload
+        public async Task<IActionResult> Upload([FromForm] ImageUploadRequestDto imageUploadRequestDto)
+        {
 
-        private void ValidateFile(ImageUploadRequestDto file) {
 
-            //check for extensions.
-            var allowedExtensions = new List<string> { ".jpeg", ".png", ".jpg" };
-            if (!allowedExtensions.Contains(Path.GetExtension(file.File.FileName))) {
-                //add the model state error.
-                ModelState.AddModelError("File", "Unsupported format"); 
-            }
+            ValidateExtension(imageUploadRequestDto);
 
-            //check for size
-            if(file.File.Length> 10485760)
+            //if valid model.
+            if (ModelState.IsValid)
             {
-                //add the file size error.
-                ModelState.AddModelError("Size", "Size cannot be more than 10 MBs"); 
+                //convert the DTO into the domain model.
+                var imageDomainodel = new Image
+                {
+                    File = imageUploadRequestDto.File,
+                    FileName = imageUploadRequestDto.FileName,
+                    FileDescription = imageUploadRequestDto.FileDescription,
+                    FileExtension = Path.GetExtension(imageUploadRequestDto.File.FileName),
+                    FileSizeInBytes = imageUploadRequestDto.File.Length,
+                };
+
+                await imageRepository.UploadAsync(imageDomainodel);
+                return Ok(imageDomainodel); 
             }
+
+
+
+
+
+            return BadRequest(ModelState);
 
 
         }
 
+
+        //validating the file extension.
+        private void ValidateExtension(ImageUploadRequestDto imageUploadRequestDto)
+        {
+            //allowed extensions.
+            var extensions = new List<String> { ".jpg", ".jpeg", ".png" };
+
+            //get the extension of the file.
+            if (!extensions.Contains(Path.GetExtension(imageUploadRequestDto.File.FileName)))
+            {
+                //invalidate the model.
+                ModelState.AddModelError("file", "Unsupported format");
+            }
+
+            //check for the size.
+            if (imageUploadRequestDto.File.Length > 10485760)
+            {
+                ModelState.AddModelError("file", "File size too large");
+            }
+
+
+
+
+
+        }
     }
+        
+
 }
+        
+
+
+    
+

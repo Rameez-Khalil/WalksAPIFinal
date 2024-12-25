@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\images\\display.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\images\\display.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\repos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\20241202103136_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\20241202103136_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\model\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\model\\dtos\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\migrations\\20241202103136_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|solutionrelative:walks.api\\migrations\\20241202103136_adding images table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F92DA24-EB56-4F28-AD8B-62C6303A884F}|Walks.Api\\Walks.Api.csproj|e:\\backend\\development\\walksapi\\walks.api\\walks.api\\repos\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +62,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Difficulty.cs",
@@ -59,71 +75,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImageUploadRequestDto.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
-              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:46:06.538Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Display.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Images\\Display.jpg",
+              "RelativeDocumentMoniker": "Walks.Api\\Images\\Display.jpg",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Images\\Display.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "RelativeToolTip": "Walks.Api\\Images\\Display.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-25T15:01:53.8Z",
+              "EditorCaption": " - Bitmap [800x800, 24 bit, JPG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Program.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Program.cs",
+              "RelativeToolTip": "Walks.Api\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:50:22.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Repos\\ImageRepository.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\ImageRepository.cs",
+              "RelativeToolTip": "Walks.Api\\Repos\\ImageRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBsAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:57:10.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Repos\\IImageRepository.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\IImageRepository.cs",
+              "RelativeToolTip": "Walks.Api\\Repos\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:56:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ImagesController.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\ImagesController.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Controllers\\ImagesController.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\ImagesController.cs",
               "RelativeToolTip": "Walks.Api\\Controllers\\ImagesController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T00:43:00.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241202103136_Adding Images Table.cs",
-              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
-              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
-              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
-              "RelativeToolTip": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "DocumentIndex": 7,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "Walks.Api\\Model\\DTOs\\ImageUploadRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T10:31:36.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T00:46:06.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "WalksDbContext.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Data\\WalksDbContext.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Data\\WalksDbContext.cs",
               "RelativeToolTip": "Walks.Api\\Data\\WalksDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBEAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T10:29:58.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Image.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Image.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Model\\Domain\\Image.cs",
               "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Model\\Domain\\Image.cs",
               "RelativeToolTip": "Walks.Api\\Model\\Domain\\Image.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T10:27:05.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T10:27:05.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RegionController.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Controllers\\RegionController.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Controllers\\RegionController.cs",
@@ -135,7 +187,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "20241202103136_Adding Images Table.cs",
+              "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "RelativeDocumentMoniker": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "ToolTip": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "RelativeToolTip": "Walks.Api\\Migrations\\20241202103136_Adding Images Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:31:36.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TokenRepository.cs",
               "DocumentMoniker": "E:\\Backend\\Development\\WalksApi\\Walks.Api\\Walks.Api\\Repos\\TokenRepository.cs",
               "RelativeDocumentMoniker": "Walks.Api\\Repos\\TokenRepository.cs",
