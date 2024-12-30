@@ -3,11 +3,23 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
 using Microsoft.IdentityModel.Tokens;
+using Serilog;
 using System.Text;
 using Walks.Api.Data;
 using Walks.Api.Repos;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+//LOGGINGS
+var logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .MinimumLevel.Information()
+    .CreateLogger();
+
+
+builder.Logging.ClearProviders();
+builder.Logging.AddSerilog(logger); 
 
 // Add services to the container.
 

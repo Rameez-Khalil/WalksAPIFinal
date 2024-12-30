@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.EntityFrameworkCore.Scaffolding;
 using System.Globalization;
+using System.Text.Json;
 using Walks.Api.Model.Domain;
 using Walks.Api.Model.DTOs;
 using Walks.Api.Repos;
@@ -16,16 +17,20 @@ namespace Walks.Api.Controllers
     public class RegionController : ControllerBase
     {
         private readonly IRegionRepository _regionRepository;
+        private readonly ILogger<RegionController> logger;
 
-        public RegionController(IRegionRepository regionRepository)
+        public RegionController(IRegionRepository regionRepository, ILogger<RegionController> logger)
         {
             this._regionRepository = regionRepository;
+            this.logger = logger;
         }
 
         [HttpGet]
-        [Authorize(Roles ="Reader")]
+        //[Authorize(Roles ="Reader")]
         public async Task<IActionResult> GetAllRegions()
         {
+            logger.LogInformation("Get all regions invoked"); 
+
             //Returns the list of regions.
             var regions = await _regionRepository.GetAllAsync();
 
@@ -49,6 +54,7 @@ namespace Walks.Api.Controllers
             }
 
             //return the DTO representation.
+            logger.LogInformation($"Finished querying the data : {JsonSerializer.Serialize(regions)}"); 
             return Ok(regionList); 
             
         }
